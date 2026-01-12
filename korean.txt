@@ -1,4 +1,4 @@
-|0|korean(need font)
+|0|korean
 |1|번역 노트:
 The first line here on top has to match the file name.
 Keep the formatting of text.
